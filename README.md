@@ -267,7 +267,7 @@ The database design includes tables for user management, featuring fields like `
 - Java-based backend and Maven for build management.
 
 The User Management project serves as a practical example of Spring Boot application development, demonstrating best practices in API design and user data management. It offers a solid foundation for building and extending user management systems in various applications.
-
+                                                                                                                                                                                                                                                
 <!-- License -->
 ## License
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
@@ -278,4 +278,4 @@ Thank you to the Spring Boot and Java communities for providing excellent tools 
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
+For questions or feedback, please contact [Pratik Sharma](mailto:thepratiksharma@gmail.com).
